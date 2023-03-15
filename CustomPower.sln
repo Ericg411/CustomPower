@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33122.133
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomPower", "CustomPower\CustomPower.csproj", "{6AC45F38-AD79-43B2-A7FF-CBE052A85563}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CustomPower.Tests", "CustomPower.Tests\CustomPower.Tests.csproj", "{6C8F0CFA-1CC3-4222-A0A1-92003C0D9BBB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AC45F38-AD79-43B2-A7FF-CBE052A85563}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AC45F38-AD79-43B2-A7FF-CBE052A85563}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AC45F38-AD79-43B2-A7FF-CBE052A85563}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AC45F38-AD79-43B2-A7FF-CBE052A85563}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6C8F0CFA-1CC3-4222-A0A1-92003C0D9BBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6C8F0CFA-1CC3-4222-A0A1-92003C0D9BBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6C8F0CFA-1CC3-4222-A0A1-92003C0D9BBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6C8F0CFA-1CC3-4222-A0A1-92003C0D9BBB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F3A9037-45DB-4770-B63A-66FF79F61737}
+	EndGlobalSection
+EndGlobal
